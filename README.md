@@ -1,4 +1,4 @@
 # Practice
 This is my first Git repository.
 <br>
-Author _ Sonali Dhawale
+Author _ Sonali Dhawale (Fresher)
